@@ -1,3 +1,6 @@
+## 発表資料
+https://docs.google.com/presentation/d/1xc4OOYl5_j52Ds2IyAdxx9bw5zB2ctCVluO3sbh3U4s/edit#slide=id.p
+
 ## ブランチ
 
 1~3は恒常、4は必要に応じて
